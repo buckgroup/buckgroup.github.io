@@ -635,3 +635,7 @@ body {
 .bg-darkest-gray {
     background-color: #222;
 }
+
+.col-8{
+		width: 12.5%;
+}
