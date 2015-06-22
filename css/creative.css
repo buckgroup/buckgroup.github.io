@@ -51,6 +51,13 @@ p {
     line-height: 1.5;
 }
 
+p.light {
+  	margin-bottom: 20px;
+  	font-size: 16px;
+  	line-height: 1.5;
+		color: white;
+}
+
 .bg-primary {
     background-color: #f05f40;
 }
